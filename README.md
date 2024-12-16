@@ -1,4 +1,4 @@
-Used_Car_Data_Analysis
+Used_Cars_Data_Analysis
 
 Title: Used Car Price Analysis and Insights
 
@@ -11,3 +11,5 @@ Data Cleaning: Handling missing values, outliers, and irrelevant columns.
 Exploratory Data Analysis (EDA): Generating visualizations to analyze trends and relationships.
 Key Findings: Insights into factors affecting car prices, state-level comparisons, and popular car types.
 The analysis is performed in Python using libraries like Pandas, Seaborn, and Matplotlib. The visualizations help in understanding how factors like odometer readings, car conditions, and manufacturer influence pricing.
+
+Used Cars Dataset kaggle link: https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/data
